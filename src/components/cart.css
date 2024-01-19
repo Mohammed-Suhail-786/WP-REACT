@@ -1,0 +1,28 @@
+.cart-container {
+    padding: 20px;
+    border: 1px solid #ddd;
+    margin: 20px;
+    max-width: 400px;
+    background-color: black;
+    color: yellowgreen;
+  }
+  
+  .cart-item {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+  }
+  
+  button {
+    background-color: #d9534f;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  

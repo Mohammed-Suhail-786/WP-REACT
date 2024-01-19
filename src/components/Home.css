@@ -1,0 +1,28 @@
+.tit {
+    font-size: 20px;
+    text-align: center;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+    margin: 33px -113px 6px 584px;
+    align-items: center;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+  }
+  .Home1 {
+    background-image: url(best-online-shopping.jpg);
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: contain;
+    justify-content: center;
+    margin: 24px 292px 89px 64px;
+    width: 40%;
+  }
+  body {
+    background-color: rgb(252, 252, 252);
+  }
+  .subtit {
+    font-size: 15px;
+    font-family: "Times New Roman", Times, serif;
+    color: black;
+  }
+  
